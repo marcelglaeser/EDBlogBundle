@@ -41,7 +41,7 @@
     "jms/serializer-bundle": "~0.13",
     "knplabs/knp-paginator-bundle": "*",
     "doctrine/doctrine-fixtures-bundle": "*",
-    "stof/doctrine-extensions-bundle": "~1.1@dev",
+    "gedmo/doctrine-extensions": "3.0.x-dev",
     "eko/feedbundle": "~1.2"
   },
   "require-dev": {
